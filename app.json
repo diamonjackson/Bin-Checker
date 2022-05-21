@@ -1,6 +1,6 @@
 {
-    "name": "Bin-Checker Bot",
-    "description": "A telegram Bin-Checker Bot to check is bins are valid or not.",
+    "name": "Diamon Checker",
+    "description": "Telegram Checker Diamon Jackson",
     "logo": "https://telegra.ph/file/2ec26162e103aed65ba50.jpg",
     "keywords": [
         "telegram",
@@ -8,9 +8,9 @@
         "telegram-bot",
         "bin"
     ],
-    "repository": "https://github.com/TgxBotz/Bin-Checker",
-    "website": "t.me/TgxBots",
-    "success_url": "https://t.me/TgxBots",
+    "repository": "https://github.com/diamonjackson/Bin-Checker/",
+    "website": "t.me/diamonjackson",
+    "success_url": "https://t.me/diamonjackson",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
